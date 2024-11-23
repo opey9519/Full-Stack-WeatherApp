@@ -28,4 +28,5 @@ print("Hello welcome to my weather app")
 city = input("What is the name of the city? ")
 print()
 
+# call get weather
 get_weather(city)
